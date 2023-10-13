@@ -1,9 +1,5 @@
 # Codecov Feedback Repo
 
-### Contribute to the future of Codecov+Sentry! 
-
-[Fall 2023 Developer Survey](https://github.com/codecov/feedback/discussions/89)
-
 ### Talk to us about Codecov! 
 
 [Issues are open](https://github.com/codecov/feedback/issues).
