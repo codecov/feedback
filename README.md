@@ -15,9 +15,10 @@
 - [**gazebo**](https://github.com/codecov/gazebo): Codecov’s React SPA front end. This is the front end application end users interact with on the app.codecov.io subdomain.
 - [**shared**](https://github.com/codecov/shared): A collection of shared functions and classes that are used by both codecov-api and worker
 
-
-\* You may also want to see the [FAQ and knowledge base](https://codecovpro.zendesk.com/hc/en-us) to help find an answer to your problem. This is the same place for paid customers to submit support tickets.
-
 ### Want to run it locally? Start here:
 
 - [**self-hosted**](https://github.com/codecov/self-hosted): A repository that allows users to bootstrap Codecov proof of concept and small volume installations.
+
+
+\* You may also want to see the [FAQ and knowledge base](https://codecovpro.zendesk.com/hc/en-us) to help find an answer to your problem. This is the same place for paid customers to submit support tickets.
+
