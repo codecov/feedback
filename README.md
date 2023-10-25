@@ -6,9 +6,9 @@
 
 1.) Provide feedback or ask questions about Codecov
 
-2.) For unpaid users with problems to receive input from the community and best effort support from Codecov team members.*
+2.) For unpaid users with problems to receive input from the community and best effort support from Codecov team members.\*
 
-* You may also want to see the [FAQ and knowledge base](https://codecovpro.zendesk.com/hc/en-us). This is the same place for paid customers to submit support tickets.
+\* You may also want to see the [FAQ and knowledge base](https://codecovpro.zendesk.com/hc/en-us). This is the same place for paid customers to submit support tickets.
 
 ### Want to see the code? Here are our core product repos:
 
