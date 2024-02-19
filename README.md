@@ -20,5 +20,5 @@
 - [**self-hosted**](https://github.com/codecov/self-hosted): A repository that allows users to bootstrap Codecov proof of concept and small volume installations.
 
 
-\* You may also want to see the [FAQ and knowledge base](https://codecovpro.zendesk.com/hc/en-us) to help find an answer to your problem. This is the same place for paid customers to submit support tickets.
+_\* You may also want to see the [FAQ and knowledge base](https://codecovpro.zendesk.com/hc/en-us) to help find an answer to your problem. This is the same place for paid customers to submit support tickets._
 
